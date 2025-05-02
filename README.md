@@ -1,28 +1,35 @@
 [![CI (feat. Java CI with Gradle)](https://github.com/TravelLaboratory/travel-laboratory-was/actions/workflows/ci.yml/badge.svg)](https://github.com/TravelLaboratory/travel-laboratory-was/actions/workflows/ci.yml)
 [![Deploy to Production](https://github.com/TravelLaboratory/travel-laboratory-was/actions/workflows/main-deploy.yml/badge.svg)](https://github.com/TravelLaboratory/travel-laboratory-was/actions/workflows/main-deploy.yml)
+# 여행 계획과 일정을 작성하고 공유할 수 있는 커뮤니티형 서비스, Trablock
 
-![20240905_170038](https://github.com/user-attachments/assets/0b35cbf0-4099-4662-8508-fad514e19d0f)
-## 📑 Introduction
-Trablock은 사용자가 여행 계획을 작성하고 리뷰를 추가하며 이를 다른 사용자들과 공유할 수 있는 여행 계획 및 일정 공유 플랫폼입니다. 이 플랫폼을 통해 여행자들은 자신의 여행 경험을 기록하고, 다른 사용자들과 소통하며 여행 정보를 나눌 수 있습니다.
+### 📽️ 시연영상
+[https://www.youtube.com/watch?v=7-nYAZsZRtk](https://www.youtube.com/watch?v=7-nYAZsZRtk)
 
-Trablock이라는 이름은 Travel과 Block의 합성어로, 사용자가 개별 일정들을 마치 블록처럼 조립하여 하나의 완성된 여행 계획을 만드는 것을 의미합니다.
+<br>
 
-## ⭐ Architecture
-![모니터링서버 구축](https://github.com/user-attachments/assets/661f70f6-d2b3-4048-8b9d-09a1ea732d51)
 
-## 🛠 Backend Tech Stack
+### 🔖 프로젝트 개요
 
-- **프레임워크:** Spring Boot(3.3.0), Spring Data JPA, Spring Data Redis
-- **언어 및 환경:** Java 17, Lombok
-- **데이터베이스:** AWS RDS (MySQL), AWS ElastiCache (Redis), AWS S3
-- **보안:** JWT, Kakao OAuth 2.0
-- **이미지 처리:** Thumbnailator
-- **API 문서화:** Swagger
-- **테스트:** JUnit5, & Mockito, H2 Database
-- **배포:** AWS EC2
-- **CI/CD:** GitHub Actions, AWS CodeDeploy
-- **성능 테스트:** nGrinder
-- **모니터링:** Prometheus, Grafana
+- **주제** : 여행 계획을 작성하고 리뷰를 추가하며 이를 다른 사용자들과 공유할 수 있는 여행 계획 및 일정 공유 커뮤니티 서비스
+- **개발 프로세스** :  (외주) 프로젝트 설계 및 기능 개발 → (개인) 테스트 기반 로직 정합성 점검 및 성능 개선 반복
+- **참고사항** : 타 부트캠프 수강생들을 위한 API 서버를 외주 개발 및 정산 후 개인 프로젝트로 전환
+
+<br>
+
+
+### 📚 기술 스택
+
+<img width="600" alt="기술스택" src="https://github.com/user-attachments/assets/befdc4b0-aea2-4cfe-8a5c-356247bf5bdc" />
+
+<br>
+<br>
+
+
+### 🌏 서버 아키텍쳐
+
+<img width="825" alt="모니터링서버 구축" src="https://github.com/user-attachments/assets/a1f5bbb7-3604-417e-997c-0ac27eecabf0" />
+<br>
+<br>
 
 
 ## 🧶 What I learn  
