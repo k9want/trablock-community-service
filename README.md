@@ -1,6 +1,6 @@
 [![CI (feat. Java CI with Gradle)](https://github.com/TravelLaboratory/travel-laboratory-was/actions/workflows/ci.yml/badge.svg)](https://github.com/TravelLaboratory/travel-laboratory-was/actions/workflows/ci.yml)
 [![Deploy to Production](https://github.com/TravelLaboratory/travel-laboratory-was/actions/workflows/main-deploy.yml/badge.svg)](https://github.com/TravelLaboratory/travel-laboratory-was/actions/workflows/main-deploy.yml)
-# 여행 계획과 일정을 작성하고 공유할 수 있는 커뮤니티형 서비스, Trablock
+# 여행 계획과 일정 공유 커뮤니티 서비스, Trablock
 
 ### 📽️ 시연영상
 [https://www.youtube.com/watch?v=7-nYAZsZRtk](https://www.youtube.com/watch?v=7-nYAZsZRtk)
