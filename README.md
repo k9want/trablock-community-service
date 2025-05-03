@@ -73,6 +73,9 @@
 **개선 후**
 ![캐싱 후](https://github.com/user-attachments/assets/749b9ceb-59b2-4f6b-a693-199c51831af3)
 
+**개선 전/후 비교**
+![캐싱 도입 전후 비교](https://github.com/user-attachments/assets/bef8fdd5-2c75-403c-ae76-7e6eca962f12)
+
 
 ### 2️⃣ 일정 상세 조회 최적화 – 테이블 정규화 및 인덱스 설계
 
@@ -95,6 +98,10 @@
 
 **개선 후**
 ![인덱스 후](https://github.com/user-attachments/assets/9484d88d-9fe7-440f-9ed0-299ab90236ed)
+
+**개선 전/후 비교**
+![인덱스 개선 전후 비교](https://github.com/user-attachments/assets/3a006d9b-e790-4cbd-93f8-1a5a4740718a)
+
 
 ### 3️⃣ 배포 프로세스 개선 – GitHub Actions 기반 자동화 구축
 
