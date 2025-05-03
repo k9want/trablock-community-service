@@ -67,6 +67,12 @@
 
 **결과**
 
+**개선 전**
+![캐싱 전](https://github.com/user-attachments/assets/d37d2e11-faee-4a1e-be08-78d87ed877d6)
+
+**개선 후**
+![캐싱 후](https://github.com/user-attachments/assets/749b9ceb-59b2-4f6b-a693-199c51831af3)
+
 
 ### 2️⃣ 일정 상세 조회 최적화 – 테이블 정규화 및 인덱스 설계
 
@@ -83,6 +89,12 @@
 
 **결과**
 
+**개선 전**
+![인덱스 전](https://github.com/user-attachments/assets/42b41f74-4258-4d15-9b74-ccb53b8bfa91)
+
+
+**개선 후**
+![인덱스 후](https://github.com/user-attachments/assets/9484d88d-9fe7-440f-9ed0-299ab90236ed)
 
 ### 3️⃣ 배포 프로세스 개선 – GitHub Actions 기반 자동화 구축
 
